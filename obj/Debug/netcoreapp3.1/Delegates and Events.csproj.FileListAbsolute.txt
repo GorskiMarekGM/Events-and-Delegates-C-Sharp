@@ -1,0 +1,13 @@
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.exe
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.deps.json
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.runtimeconfig.json
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.runtimeconfig.dev.json
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.dll
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.pdb
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.csprojAssemblyReference.cache
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.AssemblyInfoInputs.cache
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.AssemblyInfo.cs
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.csproj.CoreCompileInputs.cache
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.dll
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.pdb
+C:\Marek\Hobby\asp_net_framework\Delegates&Events\Delegates and Events\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.genruntimeconfig.cache

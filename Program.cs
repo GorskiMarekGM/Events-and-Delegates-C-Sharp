@@ -6,7 +6,10 @@ namespace Delegates_and_Events
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var video = new Video() { Title = "Video 1" };
+            var videoEncoder = new VideoEncoder();
+
+            videoEncoder.Encode(video);
         }
     }
 }
